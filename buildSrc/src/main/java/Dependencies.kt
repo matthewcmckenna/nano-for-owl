@@ -1,12 +1,12 @@
 object Versions {
-    const val compileSdkVersion = 27
+    const val compileSdkVersion = 28
     const val minSdkVersion = 21
-    const val targetSdkVersion = 27
+    const val targetSdkVersion = 28
     const val versionCode = 1
     const val versionName = "0.0"
 
     const val kotlin = "1.2.70"
-    const val android_gradle_plugin = "3.2.0-rc03"
+    const val android_gradle_plugin = "3.2.1"
     const val rxJava = "2.0.2"
     const val rxKotlin = "2.1.0"
     const val rxAndroid = "2.0.1"
